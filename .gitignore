@@ -2,4 +2,6 @@ checkpoint/
 data/
 checkpoint_/
 *.pyc
+.DS_Store
+.*
 
